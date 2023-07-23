@@ -5,6 +5,7 @@
          "type":"STAT_CARD",
          "data":{
             "title":"Cohort Population",
+            "timeline":"April - 2023 (Till today)",
             "value":2500,
             "previousStat":"Total: 2500"
          }
